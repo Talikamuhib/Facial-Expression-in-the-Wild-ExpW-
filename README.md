@@ -7,6 +7,7 @@ This project aims to automatically detect emotions from facial images using CNNs
 📄 Paper 1: "Deep Ensemble of Fine-tuned CNNs for Facial Expression Recognition in the Wild" (2022) 🎯 Accuracy: 88.5% 🤩 Pros: Deep ensemble techniques 🤔 Cons: Computationally intensive.
 📄 Paper 2: "Facial Expression Recognition via Deep Graph Convolutional Networks" (2023) 🎯 Accuracy: 85.2% 🌟 Pros: Graph CNNs capture spatial dependencies. ⚠️ Cons: Dataset not publicly available.
 
+
 **🧠 Model Architecture:**
 Custom CNN with convolutional, max-pooling, and fully connected layers. 🚀 Hyperparameter tuning to optimize performance.
 
